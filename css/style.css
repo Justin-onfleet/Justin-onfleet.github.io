@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Raleway&display=swap');
+
+body {
+  background-color: lightgrey;
+  color: tomato;
+  text-align: center;
+  list-style: none;
+  border style: solid;
+  font-size: 18px;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-style: italic;
+  font-size: 40px;
+  font-family: 'Raleway', sans-serif;
+font-family: 'Quicksand', sans-serif;
+background-color: tomato;
+color: lightgrey;
+ border: 2px solid black;
+ padding: 20px;
+ margin-bottom: 60px;
+}
+
+.other {
+  color: darkgrey;
+  font-weight: bold;
+}
+
+.birds {
+  color: blue;
+  font-style: italic;
+}
+
+.fish {
+  color: orange;
+text-decoration: underline;
+}
+
+#firstlist {
+  background-color: lime;
+}
+
+#firstList li {
+  display: inline-block;
